@@ -1,0 +1,14 @@
+#canvas { border: 2px solid rgb(0, 0, 0);z-index: 10; }
+
+#festivalsplads {
+    position: relative; left:0px; bottom:614px;
+    opacity: 1;
+    z-index: -1;
+    
+}
+
+#showCoords {
+        position: absolute;
+        bottom: 15em;
+
+}
